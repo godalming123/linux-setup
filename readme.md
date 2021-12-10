@@ -1,3 +1,5 @@
+**UPDATE:** I will no longer use this repo for my configs if you want to find my configs look in https://godalming123.github.io/blog/ it has an article on how I setup bspwm with all my configs in it and I am adding more articles like that one. Also from now on I will archive this repo as I no longer use it.
+
 **Commad to run script:** `bash <(curl -s https://raw.githubusercontent.com/godalming123/linux-setup/master/afterInstall.sh) ` this command works **without** cloning the repo
 
 # Contents

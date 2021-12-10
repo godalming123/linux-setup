@@ -1,0 +1,13 @@
+{
+	"gnome extensions": {
+		"move if": "gnome-desktop",
+		"current location": "./gnome extensions",
+		"new location": "/home/$user/.local/share/gnome-shell/extensions"
+	},
+	"i3-config": {
+		"move if": "i3 desktop",
+		"current location": "./i3",
+		"new location": "/home/$user/.config/i3"
+	}
+}
+
